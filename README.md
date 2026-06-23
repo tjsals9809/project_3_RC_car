@@ -95,12 +95,15 @@ project_RC/
 <br>
 
 ### 5.2 Demonstration (시연 영상)
+<br>
 
 <a href="https://www.youtube.com/watch?v=y_h5x1xk92Q">
   <img src="./images/youtube.png" width="500">
 </a>
 
 ### *이미지를 클릭하면 영상으로 이동합니다.*
+
+<br><br>
 
 ## 6. Control Command (제어 명령)
 
